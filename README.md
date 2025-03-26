@@ -1,14 +1,14 @@
-👋 Hey there! I'm Subhasish Das </br>
+# 👋 Hey there! I'm Subhasish Das </br>
 
 🚀 Exploring Tech | Building Cool Stuff | Learning Every Day </br>
 
-🌱 About Me </br>
+# 🌱 About Me </br>
 
 🎓 Currently in my 3rd year of BTech (CSE - AIML), exploring different possibilities in tech. </br>
 
 💡 Passionate about software development, future tech, and product-driven innovation. </br>
 
-💻 Tech Stack & Learning Journey: </br>
+# 💻 Tech Stack & Learning Journey: </br>
 Languages: Java & Python (OOPs & DSA), C (not my favourite 😅) </br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, React, Angular. </br>
 Backend & Full Stack: MERN Stack, PHP-Laravel, Django. </br>
