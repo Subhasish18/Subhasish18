@@ -19,8 +19,8 @@ My goal is to strengthen my development and problem-solving skills and explore n
 
 
 - 📚 I’m currently learning ...
-  - *React Native*
-  - *Django*
+  - *React Native*          - *PHP-Laravel*
+  - *Django*                
   - *Flask*
   - *Next-Js*
     
