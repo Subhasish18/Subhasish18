@@ -18,17 +18,17 @@ and front-end development, as well as software engineering.
 My goal is to strengthen my development and problem-solving skills and explore new technologies. I love to learn and build something new, creative and exciting.
 
 
-# 💻 Tech Stack & Learning Journey: </br>
-Languages: Java & Python (OOPs & DSA), C (not my favourite 😅) </br>
-Frontend: HTML, CSS, JavaScript, Bootstrap, React, Angular. </br>
-Backend & Full Stack: MERN Stack, PHP-Laravel, Django. </br>
-Databases: MongoDB (Atlas), MySQL </br>
-🛠 Currently working on MERN, Laravel and Django projects & backend development while exploring new frameworks. </br>
-
-🎯 What I’m Up To </br>
-Participating in college tech fests & hackathons </br>
-Building real-world projects </br>
-Preparing for tech jobs & future opportunities </br>
+- 📚 I’m currently learning ...
+  - *React Native*
+  - *Django*
+  - *Flask*
+  - *Next-Js*
+    
+- 🚀 I’m eager to join new projects.
+  
+- Outside tech, I enjoy socialising with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🏍️ driving motorcycles and cars.
+- 
+- 📫 Reach out to me at: <a href="subhasish16das@gmail.com">subhasish16das@gmail.com</a>
 
 
 ## 🌐 Socials:
