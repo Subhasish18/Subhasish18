@@ -31,7 +31,7 @@ My goal is to strengthen my development and problem-solving skills and explore n
 - 📫 Reach out to me at: <a href="subhasish16das@gmail.com">subhasish16das@gmail.com</a>
 
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">&nbsp;***Socials***
+<img src="around-the-world.gif" width="100%">&nbsp;***Socials***
 
 <div align="center">
   <a href="mailto:subhasish16das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
