@@ -6,6 +6,7 @@
          width="45" />
   I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
 </h1>
+<img src="github-header-image.png" />
 🚀 Exploring Tech | Building Cool Stuff | Learning Every Day </br>
 
 # 🌱 About Me </br>
