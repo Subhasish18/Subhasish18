@@ -11,7 +11,7 @@
 </br>
 🚀 Exploring Tech | Building Cool Stuff | Learning Every Day </br>
 </br>
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; # ***About me***
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 🎓 Currently in my 3rd year of BTech (CSE - AIML), exploring different possibilities in tech. </br>
 
