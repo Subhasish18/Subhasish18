@@ -40,8 +40,8 @@ My goal is to strengthen my development and problem-solving skills and explore n
   <a href="https://instagram.com/_.subhasish_das._"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
   <a href="https://x.com/@SubhasishDas21"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white" /></a>
   <a href="https://in.pinterest.com/anita80subhasish/_profile/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&color=black" /></a>
-  <a href="https://quora.com/profile/SubhasishDas"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white&color=black" /></a>
-  <a href="https://stackoverflow.com/users/Subhasish-Das20"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=black" /></a>
+  <a href="https://www.quora.com/profile/Subhasish-Das-437"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white&color=black" /></a>
+  <a href="https://stackoverflow.com/users/22662690/subhasish-das20"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=black" /></a>
 
 </div>
 
