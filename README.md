@@ -1,4 +1,4 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h1 align="center">
     Hi there, 
     <img src="wave.gif" 
@@ -7,6 +7,7 @@
          width="45" />
   I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
 </h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 🚀 Exploring Tech | Building Cool Stuff | Learning Every Day </br>
 
 # 🌱 About Me </br>
