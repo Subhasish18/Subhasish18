@@ -8,9 +8,10 @@
   I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
 </h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</br>
 🚀 Exploring Tech | Building Cool Stuff | Learning Every Day </br>
-
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+</br>
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; # ***About me***
 
 🎓 Currently in my 3rd year of BTech (CSE - AIML), exploring different possibilities in tech. </br>
 
