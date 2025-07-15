@@ -46,4 +46,5 @@ Preparing for tech jobs & future opportunities </br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Subhasish18&icon=8&color=11)](https://visitcount.itsvg.in)
 
-
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
