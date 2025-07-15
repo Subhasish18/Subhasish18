@@ -10,7 +10,6 @@
   </h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </br>
-🚀 Exploring Tech | Building Cool Stuff | Learning Every Day </br>  </br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
