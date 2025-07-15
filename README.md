@@ -14,9 +14,10 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-🎓 Currently in my 3rd year of BTech (CSE - AIML), exploring different possibilities in tech. </br>
+I am a Computer Science(with AIML specification) student, currently in my final year (4th), and I am expanding my knowledge in both back-end 
+and front-end development, as well as software engineering.
+My goal is to strengthen my development and problem-solving skills and explore new technologies. I love to learn and build something new, creative and exciting.
 
-💡 Passionate about software development, future tech, and product-driven innovation. </br>
 
 # 💻 Tech Stack & Learning Journey: </br>
 Languages: Java & Python (OOPs & DSA), C (not my favourite 😅) </br>
