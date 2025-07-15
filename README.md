@@ -119,7 +119,9 @@ My goal is to strengthen my development and problem-solving skills and explore n
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Subhasish18&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
 [![](https://visitcount.itsvg.in/api?id=Subhasish18&icon=8&color=11)](https://visitcount.itsvg.in)
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
