@@ -1,5 +1,11 @@
-# 👋 Hey there! I'm Subhasish Das </br>
-
+<h1 align="center">
+    Hi there, 
+    <img src="wave.gif" 
+         alt="Waving hand animated gif"
+         height "45"
+         width="45" />
+  I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
+</h1>
 🚀 Exploring Tech | Building Cool Stuff | Learning Every Day </br>
 
 # 🌱 About Me </br>
