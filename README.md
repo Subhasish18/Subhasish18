@@ -7,6 +7,11 @@
          width="45" />
   
   I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
+  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhasish18&label=Profile%20Views&color=6366F1&style=flat-square&abbreviated=true">
+  <img src="https://img.shields.io/github/followers/Subhasish18?label=Followers&style=flat-square&color=6366F1">
+</p>
   </h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </br>
