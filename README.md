@@ -19,15 +19,12 @@ My goal is to strengthen my development and problem-solving skills and explore n
 
 
 - 📚 I’m currently learning ...
-  - *React Native*
-  - *PHP-Laravel*
-  - *Django*                
-  - *Flask*
-  - *Next-Js*
+  - *Django (kind of on-hold) *
+  - *Langchain, Pipelines, RAGs, etc. *             
     
 - 🚀 I’m eager to join new projects.
   
-- Outside tech, I enjoy socialising with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🏍️ driving motorcycles and cars.
+- Outside tech, I enjoy socialising with friends, 🎮 playing video games, 🎵 listening to music, 🦾 weight-lifting, watching sports, and I also love 🏍️ driving motorcycles and cars.
   
 - 📫 Reach out to me at: <a href="subhasish16das@gmail.com">subhasish16das@gmail.com</a>
 
@@ -64,6 +61,10 @@ My goal is to strengthen my development and problem-solving skills and explore n
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Lenis-000000?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
 
 
 ###### Backend & Frameworks:
