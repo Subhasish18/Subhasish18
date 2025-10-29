@@ -3,7 +3,7 @@
     Hi there, 
     <img src="wave.gif" 
          alt="Waving hand animated gif"
-         height "45"
+         height "35"
          width="45" />
   
   I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
