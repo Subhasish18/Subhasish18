@@ -18,7 +18,6 @@ My goal is to strengthen my development and problem-solving skills and explore n
 
 
 - 📚 I’m currently learning ...
-  - *Django (kind of on-hold) *
   - *Langchain, Pipelines, RAGs, etc. *             
     
 - 🚀 I’m eager to join new projects.
