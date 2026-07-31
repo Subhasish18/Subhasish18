@@ -1,22 +1,18 @@
 <table border="0">
   <tr>
-    <td width="42%" align="center" style="border: none;">
+    <td width="42%" align="center">
       <img src="./ascii-profile-art-cropped-small.gif" alt="ASCII profile art" width="320">
     </td>
-    <td width="58%" style="border: none;">
+    <td width="58%">
       <h1 align="center">
         Hi, I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
       </h1>
-      <pre><code>const subhasish = {
-  pronouns: "he/him",
-  location: "Kolkata, India",
-  currentFocus: "AI Engineer",
-  education: {
-    degree: "B.Tech in CSE (AI & ML)",
-    college: "SurTech",
-    graduation: "2026"
-  }
-};</code></pre>
+      <p>
+        <b>Location:</b> Kolkata, India<br>
+        <b>Education:</b> B.Tech in CSE (AI & ML)<br>
+        <b>College:</b> SurTech<br>
+        <b>Graduation:</b> 2026
+      </p>
     </td>
   </tr>
 </table>
