@@ -19,10 +19,13 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; About ME
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;
+  <u><b>About Me</b></u>
+</h2>
 
 <p>
-  I am a <b>Computer Science Engineering graduate with a specialization in AI & ML</b>,
+  I am a <b>Computer Science Engineering graduate with a specialisation in AI & ML</b>,
   now focused on becoming an <b>AI Engineer</b>. I am building my skills in machine
   learning, deep learning, generative AI, LLMs, RAG systems, and AI-powered applications.
 </p>
