@@ -158,15 +158,6 @@
   <img width="55%" src="https://streak-stats.demolab.com?user=Subhasish18&theme=dark&hide_border=true" />
 </p>
 
-<h3>
-  🔝 <u><b>Top Contributed Repo</b></u>
-</h3>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Subhasish18&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" />
-</p>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Subhasish18&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
