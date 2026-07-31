@@ -163,21 +163,13 @@
 </h3>
 
 <p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=Subhasish18&amp;limit=5&amp;theme=vision-friendly-dark&amp;combine_all_yearly_contributions=true"
-    alt="Top Contributed Repositories"
-  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Subhasish18&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" />
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img
-      src="https://visitcount.itsvg.in/api?id=Subhasish18&amp;icon=8&amp;color=11"
-      alt="Profile Visit Count"
-    />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Subhasish18&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
