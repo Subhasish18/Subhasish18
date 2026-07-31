@@ -158,13 +158,27 @@
   <img width="55%" src="https://streak-stats.demolab.com?user=Subhasish18&theme=dark&hide_border=true" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subhasish18&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+<h3>
+  🔝 <u><b>Top Contributed Repo</b></u>
+</h3>
+
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=Subhasish18&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true"
+    alt="Top Contributed Repositories"
+  />
+</p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-[![](https://visitcount.itsvg.in/api?id=Subhasish18&icon=8&color=11)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img
+      src="https://visitcount.itsvg.in/api?id=Subhasish18&icon=8&color=11"
+      alt="Profile Visit Count"
+    />
+  </a>
+</p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d55bf&height=120&section=footer"/>
