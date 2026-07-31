@@ -164,7 +164,7 @@
 
 <p align="center">
   <img
-    src="https://github-contributor-stats.vercel.app/api?username=Subhasish18&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true"
+    src="https://github-contributor-stats.vercel.app/api?username=Subhasish18&amp;limit=5&amp;theme=vision-friendly-dark&amp;combine_all_yearly_contributions=true"
     alt="Top Contributed Repositories"
   />
 </p>
@@ -174,7 +174,7 @@
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img
-      src="https://visitcount.itsvg.in/api?id=Subhasish18&icon=8&color=11"
+      src="https://visitcount.itsvg.in/api?id=Subhasish18&amp;icon=8&amp;color=11"
       alt="Profile Visit Count"
     />
   </a>
