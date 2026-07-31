@@ -149,13 +149,19 @@
 </br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">
+  <u><b>GitHub Stats</b></u>
+</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Subhasish18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Subhasish18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasish18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Subhasish18&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Subhasish18&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasish18&theme=dark&hide_border=true&layout=compact" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Subhasish18&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
