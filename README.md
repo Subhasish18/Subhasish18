@@ -1,16 +1,21 @@
-<p align="center">
-  <img src="./ascii-profile-art-cropped-small.gif" alt="ASCII profile art" width="450">
-</p>
-<h1 align="center">
-    Hi there, 
-    <img src="wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
-  I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
-  </h1>
+<table>
+  <tr>
+    <td width="42%" align="center">
+      <img src="./ascii-profile-art-cropped-small.gif" alt="ASCII profile art" width="320">
+    </td>
+    <td width="58%" align="center">
+      <h1>
+        I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
+      </h1>
+      <p>
+        <b>BTech in CSE(AIML) from Surtech.</b>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-</br>
+<br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
