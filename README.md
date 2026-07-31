@@ -42,16 +42,34 @@
 - 📫 Reach out to me at: <a href="subhasish16das@gmail.com">subhasish16das@gmail.com</a>
 
 
-<img src="icons8-worldwide-location.gif" height= "45" width="45">&nbsp;***Socials***
+<h2>
+  <img src="icons8-worldwide-location.gif" height="32" width="32" align="center">
+  <u><b>Socials</b></u>
+</h2>
 
-<div align="center">
-  <a href="mailto:subhasish16das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/subhasish-das26/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://instagram.com/_.subhasish_das._"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/@SubhasishDas21"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://in.pinterest.com/anita80subhasish/_profile/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&color=black" /></a>
-  <a href="https://www.quora.com/profile/Subhasish-Das-437"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white&color=black" /></a>
-  <a href="https://stackoverflow.com/users/22662690/subhasish-das20"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=black" /></a>
+<p align="center">
+  <a href="mailto:subhasish16das@gmail.com">
+    <img height="32" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhasish-das26/">
+    <img height="32" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_.subhasish_das._">
+    <img height="32" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/SubhasishDas21">
+    <img height="32" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://in.pinterest.com/anita80subhasish/_profile/">
+    <img height="32" src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://www.quora.com/profile/Subhasish-Das-437">
+    <img height="32" src="https://img.shields.io/badge/Quora-000000?style=for-the-badge&logo=quora&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/22662690/subhasish-das20">
+    <img height="32" src="https://img.shields.io/badge/Stack%20Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
