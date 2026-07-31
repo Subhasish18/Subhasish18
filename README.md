@@ -1,13 +1,13 @@
-<table>
+<table border="0">
   <tr>
-    <td width="42%" align="center">
+    <td width="42%" align="center" style="border: none;">
       <img src="./ascii-profile-art-cropped-small.gif" alt="ASCII profile art" width="320">
     </td>
-    <td width="58%" align="center">
-      <h1>
+    <td width="58%" style="border: none;">
+      <h1 align="center">
         Hi, I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
       </h1>
-      <pre align="left"><code>const subhasish = {
+      <pre><code>const subhasish = {
   pronouns: "he/him",
   location: "Kolkata, India",
   currentFocus: "AI Engineer",
@@ -20,7 +20,6 @@
     </td>
   </tr>
 </table>
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
 
