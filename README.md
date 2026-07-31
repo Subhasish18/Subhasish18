@@ -1,3 +1,4 @@
+![ASCII animation](ascii-profile-animation.gif)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a2b99&height=120&section=header" alt="header"/> 
 <h1 align="center">
     Hi there, 
