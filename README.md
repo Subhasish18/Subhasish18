@@ -101,9 +101,7 @@
 
 ###### Backend & Frameworks:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
 
@@ -122,7 +120,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311577C.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23EB5E00.svg?style=for-the-badge&logo=xgboost&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-%233B77AF.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD43B.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
@@ -133,7 +130,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
 
 ###### Development Tools:
@@ -147,6 +143,7 @@
 ###### Development Environments:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Cursor IDE](https://img.shields.io/badge/Cursor-IDE-282828.svg?style=for-the-badge&logo=cursor&logoColor=white)&nbsp;
+![Antigravity](https://img.shields.io/badge/Antigravity-000000.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
 
 
 </br>
