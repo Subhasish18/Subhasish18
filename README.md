@@ -19,16 +19,20 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; About ME
 
-I am a Computer Science(with AIML specification) student, currently in my final year (4th), and I am expanding my knowledge in both back-end 
-and front-end development, as well as software engineering.
-My goal is to strengthen my development and problem-solving skills and explore new technologies. I love to learn and build something new, creative and exciting.
+<p>
+  I am a <b>Computer Science Engineering graduate with a specialization in AI & ML</b>,
+  now focused on becoming an <b>AI Engineer</b>. I am building my skills in machine
+  learning, deep learning, generative AI, LLMs, RAG systems, and AI-powered applications.
+</p>
 
+<p>
+  My goal is to strengthen my problem-solving ability and develop practical AI systems
+  that are useful, reliable, and creative. I enjoy learning new technologies,
+  experimenting with intelligent systems, and turning ideas into real projects.
+</p>
 
-- 📚 I’m currently learning ...
-  - *Langchain, Pipelines, RAGs, etc. *             
-    
 - 🚀 I’m eager to join new projects.
   
 - Outside tech, I enjoy socialising with friends, 🎮 playing video games, 🎵 listening to music, 🦾 weight-lifting, watching sports, and I also love 🏍️ driving motorcycles and cars.
