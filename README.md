@@ -155,12 +155,7 @@
 </h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Subhasish18&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Subhasish18&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasish18&theme=dark&hide_border=true&layout=compact" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=Subhasish18&theme=dark&hide_border=true" />
 </p>
 
 ### 🔝 Top Contributed Repo
