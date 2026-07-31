@@ -3,20 +3,25 @@
     <td width="42%" align="center">
       <img src="./ascii-profile-art-cropped-small.gif" alt="ASCII profile art" width="320">
     </td>
-    <td width="58%" align="center">
-      <h1>
-        I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
-      </h1>
-      <p>
-        <b>BTech in CSE(AIML) from Surtech.</b>
-      </p>
-    </td>
+    <td width="58%">
+
+
+const subhasish = {
+  pronouns: "he/him",
+  location: "Kolkata, India",
+  currentFocus: "AI Engineer",
+  education: {
+    degree: "B.Tech in CSE (AI & ML)",
+    college: "SurTech",
+    graduation: "2026"
+  },
+};
+  </td>
   </tr>
 </table>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
-
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 I am a Computer Science(with AIML specification) student, currently in my final year (4th), and I am expanding my knowledge in both back-end 
