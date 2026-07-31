@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ascii-profile-art.gif" alt="ASCII profile art" width="100%">
+  <img src="./ascii-profile-art-cropped-small.gif" alt="ASCII profile art" width="450">
 </p>
 <h1 align="center">
     Hi there, 
