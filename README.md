@@ -3,10 +3,11 @@
     <td width="42%" align="center">
       <img src="./ascii-profile-art-cropped-small.gif" alt="ASCII profile art" width="320">
     </td>
-    <td width="58%">
-
-
-const subhasish = {
+    <td width="58%" align="center">
+      <h1>
+        Hi, I'm <a href="https://github.com/Subhasish18" target="_blank">Subhasish Das!</a>
+      </h1>
+      <pre align="left"><code>const subhasish = {
   pronouns: "he/him",
   location: "Kolkata, India",
   currentFocus: "AI Engineer",
@@ -14,11 +15,14 @@ const subhasish = {
     degree: "B.Tech in CSE (AI & ML)",
     college: "SurTech",
     graduation: "2026"
-  },
-};
-  </td>
+  }
+};</code></pre>
+    </td>
   </tr>
 </table>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
